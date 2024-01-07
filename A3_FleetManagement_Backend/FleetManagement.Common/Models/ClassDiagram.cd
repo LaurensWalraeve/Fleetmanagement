@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Klassen_Projectwerk.Commission">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIAEAAAAAAAAAAAAAAAABAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Commission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Klassen_Projectwerk.Driver">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAEAAEEAAAAIADAAEAEAABQABAAAAAACAIIAAAAAAQg=</HashCode>
+      <FileName>Models\Driver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Klassen_Projectwerk.FuelCard">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAEEAAAEAAAAAAAAABAACAAgAAAAAAAAAAAAASAAAA=</HashCode>
+      <FileName>Models\FuelCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Klassen_Projectwerk.FuelCardCommission">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAIAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Models\FuelCardCommission.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Klassen_Projectwerk.Vehicle">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIEAEAAAAAIAAQAEAAAAAAAAAIAgCAIAgAAgAAACBI=</HashCode>
+      <FileName>Models\Vehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FleetManagementApp.Backend.Login">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACAEAAAAEAACAAgAAAAAAAAKAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FleetManagementApp.Backend.Models.Address">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAIAAAAAAAAAEAAAAABAAoAACACAAA=</HashCode>
+      <FileName>Models\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
